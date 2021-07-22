@@ -9,25 +9,31 @@ URPT is a collection of on how to remove userprofiles from clients
 
 
 2. URPT-CS - Remote
-   Uses Wsman to remove the profiles. 
+
+   - Uses Wsman to remove the profiles. 
 
 
 3. URPT-Ps Gui
-   Powershell GUI Tool.
+   
+   - Powershell GUI Tool.
 
 
 4. URPT - Electron
-   Powershell GUI tool written in Electron.
+   
+    - Powershell GUI tool written in Electron.
 
 
 5. URPT-Central
-   Script to automatise the workflow.
+   
+    - Script to automatise the workflow.
 
 
 6. URPT-Master Central
-   Script to automatise the workflow and use MsSql as masterdata
+   
+    - Script to automatise the workflow and use MsSql as masterdata
 
 
 7. URPT-Master Electron Central
-   Uses MsSql as masterdata and have a gui in Electron
+   
+    - Uses MsSql as masterdata and have a gui in Electron
 
