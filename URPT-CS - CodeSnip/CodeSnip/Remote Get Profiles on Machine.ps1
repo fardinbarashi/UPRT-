@@ -1,5 +1,5 @@
 ﻿$Credential = (Get-Credential)
-$PSSession = New-PSSession -ComputerName Client02 -Credential $Credential | Enter-PSSession
+$PSSession = New-PSSession -ComputerName ComputerName -Credential $Credential | Enter-PSSession
 
           
  # Get Profiles
