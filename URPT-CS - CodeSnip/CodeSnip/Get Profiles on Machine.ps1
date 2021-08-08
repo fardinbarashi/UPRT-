@@ -1,5 +1,3 @@
-# Get-Profiles on machine : Remove profiles locally 
-
 ﻿# Start Logging
 Start-Transcript -Path "$PSScriptRoot\RemoveAccountLog.txt" -Force -Append
 Get-Date -Format "yyyy-mm-dd HH:MM"
