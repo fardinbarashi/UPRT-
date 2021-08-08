@@ -1,0 +1,4 @@
+DeleteProfile.ps1 : Remove userprofiles
+Get Profiles on Machine.ps1 : Get userprofiles
+GetSids.PNG : Screenshot on Get Profiles on Machine
+Remote Get Profiles on Machine.ps1 : Uses PsSession to get userprofiles
