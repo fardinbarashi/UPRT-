@@ -3,4 +3,4 @@ Get Profiles on Machine.ps1 : Get userprofiles
 GetSids.PNG : Screenshot on Get Profiles on Machine
 Remote Get Profiles on Machine.ps1 : Uses PsSession to get userprofiles
 
-For more information : https://www.notion.so/A-Beginner-s-Guide-On-Remove-User-profiles-With-Powershell-bf97e33fba47484a82999fa25824ea2a
+For more information, Read A_Beginners_Guide_On_Remove_User-profiles_With_Powershell.pdf
